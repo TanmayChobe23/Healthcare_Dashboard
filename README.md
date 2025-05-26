@@ -26,6 +26,7 @@ The goal is to enable healthcare professionals and administrators to make data-d
 
 
 **🧠 Key Learnings**
+
 Importing and transforming data using Power Query.
 
 Creating relationships between tables for data modeling.
